@@ -1,0 +1,103 @@
+{
+    "response": [
+        {
+            "payment_data": {
+                "payment_remarks": "",
+                "payable_balance_amount": 0.0,
+                "payment_status": "Paid",
+                "payment_cancellation_date": ""
+            },
+            "payment_detail": {
+                "payment_recipient": {
+                    "bank_account": {
+                        "account_number": "909809",
+                        "branch_name": "分行",
+                        "bank_name": "銀行"
+                    },
+                    "party": {
+                        "name": "子",
+                        "identification": {
+                            "main_id": {
+                                "id_value": "6"
+                            }
+                        }
+                    }
+                },
+                "linked_payment_detail_type": {
+                    "dividend": {
+                        "exchange_rate": 1.0,
+                        "amount": 142.34,
+                        "original_amount": 142.34,
+                        "fund": {
+                            "name": "月撥現",
+                            "identification": {
+                                "main_id": {
+                                    "id_value": "DMA071"
+                                }
+                            }
+                        }
+                    }
+                },
+                "cheque_status": "",
+                "currency": "US$",
+                "cheque_actual_payment_date": "",
+                "post_registration_number": "",
+                "cheque_post_address": "",
+                "cheque_number": "",
+                "payment_effective_date": "20220718",
+                "payment_date": "20220714",
+                "payment_method": "美金帳戶"
+            }
+        },
+        {
+            "payment_data": {
+                "payment_remarks": "",
+                "payable_balance_amount": 0.0,
+                "payment_status": "Paid",
+                "payment_cancellation_date": ""
+            },
+            "payment_detail": {
+                "payment_recipient": {
+                    "bank_account": {
+                        "account_number": "09809",
+                        "branch_name": "分行",
+                        "bank_name": "銀行"
+                    },
+                    "party": {
+                        "name": "子",
+                        "identification": {
+                            "main_id": {
+                                "id_value": "065"
+                            }
+                        }
+                    }
+                },
+                "linked_payment_detail_type": {
+                    "dividend": {
+                        "exchange_rate": 1.0,
+                        "amount": 148.8,
+                        "original_amount": 148.87,
+                        "fund": {
+                            "name": "月撥現",
+                            "identification": {
+                                "main_id": {
+                                    "id_value": "DMA071"
+                                }
+                            }
+                        }
+                    }
+                },
+                "cheque_status": "",
+                "currency": "US$",
+                "cheque_actual_payment_date": "",
+                "post_registration_number": "",
+                "cheque_post_address": "",
+                "cheque_number": "",
+                "payment_effective_date": "20220815",
+                "payment_date": "20220811",
+                "payment_method": "美金帳戶"
+            }
+        }
+    ],
+    "status": 200
+}

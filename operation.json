@@ -1,0 +1,120 @@
+
+{
+    "response": [
+        {
+            "operation_payment": [],
+            "operation": {
+                "dividend": {
+                    "reinvestment": {
+                        "reinvestment_order_date": ""
+                    },
+                    "additional_dividend_indicator": "N",
+                    "net_dividend_rate": 0.03871,
+                    "dividend_payout_amount_reference_currency": 140.83,
+                    "dividend_payout_amount_fund_currency": 140.83,
+                    "dividend_payout_exchange_rate": 1.0,
+                    "record_date": "20220901",
+                    "dividend_rate": 0.03871,
+                    "receiving_date": "20220912",
+                    "dividend_payout_currency": "US$",
+                    "net_dividend_payout_amount": 140.83,
+                    "dividend_fund": {
+                        "fund_group": "MF",
+                        "unit_stock": 3638.0126,
+                        "dividend_allocation_method": "領回",
+                        "fund_currency": "US$",
+                        "fund_chinese_name": "月撥現",
+                        "identification": {
+                            "fund_id": "DMA071",
+                            "isin_code": "DMA071"
+                        }
+                    }
+                }
+            },
+            "linked_objects": {
+                "insured": {
+                    "name": "子",
+                    "identification": {
+                        "person_id": "77065"
+                    }
+                },
+                "owner": {
+                    "name": "子",
+                    "identification": {
+                        "person_id": "77065"
+                    }
+                },
+                "policy": {
+                    "identification": {
+                        "policy_number": "69"
+                    }
+                }
+            }
+        },
+        {
+            "operation_payment": [
+                {
+                    "payout_recipient": {
+                        "payment_instruction": {
+                            "account": {
+                                "account_number": "09809",
+                                "branch_name": "分行",
+                                "bank_name": "銀行"
+                            },
+                            "payment_method": "美金帳戶"
+                        }
+                    },
+                    "payment_effective_date": "20220815"
+                }
+            ],
+            "operation": {
+                "dividend": {
+                    "reinvestment": {
+                        "reinvestment_order_date": ""
+                    },
+                    "additional_dividend_indicator": "N",
+                    "net_dividend_rate": 0.04079,
+                    "dividend_payout_amount_reference_currency": 148.87,
+                    "dividend_payout_amount_fund_currency": 148.87,
+                    "dividend_payout_exchange_rate": 1.0,
+                    "record_date": "20220801",
+                    "dividend_rate": 0.04079,
+                    "receiving_date": "20220808",
+                    "dividend_payout_currency": "US$",
+                    "net_dividend_payout_amount": 148.87,
+                    "dividend_fund": {
+                        "fund_group": "MF",
+                        "unit_stock": 3649.7305,
+                        "dividend_allocation_method": "領回",
+                        "fund_currency": "US$",
+                        "fund_chinese_name": "月撥現",
+                        "identification": {
+                            "fund_id": "A071",
+                            "isin_code": "071"
+                        }
+                    }
+                }
+            },
+            "linked_objects": {
+                "insured": {
+                    "name": "子",
+                    "identification": {
+                        "person_id": "065"
+                    }
+                },
+                "owner": {
+                    "name": "子",
+                    "identification": {
+                        "person_id": "7065"
+                    }
+                },
+                "policy": {
+                    "identification": {
+                        "policy_number": "6069"
+                    }
+                }
+            }
+        }
+    ],
+    "status": 200
+}
