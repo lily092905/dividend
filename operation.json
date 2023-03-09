@@ -2,7 +2,21 @@
 {
     "response": [
         {
-            "operation_payment": [],
+            "operation_payment": [
+                {
+                    "payout_recipient": {
+                        "payment_instruction": {
+                            "account": {
+                                "account_number": "09809",
+                                "branch_name": "分行",
+                                "bank_name": "銀行"
+                            },
+                            "payment_method": "美金帳戶"
+                        }
+                    },
+                    "payment_effective_date": "20220718"
+                }
+            ],
             "operation": {
                 "dividend": {
                     "reinvestment": {
